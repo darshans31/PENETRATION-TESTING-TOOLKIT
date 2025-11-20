@@ -11,6 +11,10 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
+# OUTPUT
+
+<img width="1920" height="361" alt="Image" src="https://github.com/user-attachments/assets/536c62dd-81df-4dbf-8b2d-0ab64c140006" />
+<img width="701" height="238" alt="Image" src="https://github.com/user-attachments/assets/61d07beb-a444-4814-a49e-691b5165ca45" />
 ## Description
 The Port Scanner module scans a specified target IP address or hostname to detect which network ports are open from port 1 to 1024. Open ports potentially indicate services running on the host that might be exploited. It uses low-level socket programming to attempt connections on ports within the specified range and lists the ports responding affirmatively.
 The Brute Forcer module attempts to gain unauthorized access to a web login form by systematically trying passwords from a user-supplied list for a given username. It sends HTTP POST requests to the login URL and analyzes the server’s response to determine if the login was successful. This simulates a brute-force attack, revealing weak passwords and highlighting authentication vulnerabilities.
